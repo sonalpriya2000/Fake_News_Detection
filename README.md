@@ -20,3 +20,4 @@ The main aim of this project is to detect the fake and real news using various M
 Model is trained using four classification algorithms namely Logistic Regression, Random Forest Classifier,  SVM and decision Tree Classifier. With these algorithms, the models are trained successfully and evaluate each of the model to find the most suitable model for this problem.
 
 From this, I consider that DecisionTreeClassifier is one of the most suitable model as it gives accuracy of about 99.07% among all the classification algorithms.
+

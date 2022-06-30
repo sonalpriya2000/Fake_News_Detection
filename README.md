@@ -5,9 +5,13 @@ The main aim of this project is to detect the fake and real news using various M
 ### Steps Involved
 
 1.Importing the required packages into python environment.
+
 2.Importing the dataset (Fake News.CSV and True News.CSV Dataset).
+
 3.Preprocessing of data as required.
+
 4.Exploratory Data Analysis (EDA) to extract features from the dataset.
+
 5.Training of dataset using four machine learning classification algorithms and evaluate the trained model using evaluation metrics.
 
 

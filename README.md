@@ -1,4 +1,4 @@
-##Fake_News_Detection
+#Fake_News_Detection
 
 The main aim of this project is to detect the fake and real news using various Machine learning algorithim with NlP techinques for detecting the 'fake news',that is misleading news stories that comes from the non reputable sources.
 
